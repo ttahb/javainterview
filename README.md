@@ -41,7 +41,7 @@ Interveiw - 2 ( Java 8, Multithreading, Spring Boot)
 
 3. How will you check if a thread is running, and what will you do stop it.
 
-4. How streams in java 8 we can increase the performance?
+4. How streams in Java 8 has better performance?
 
 
 
