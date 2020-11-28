@@ -33,7 +33,7 @@ Interview # 1   ( Stack - Microservice, Core Java, Java 8, Java 11, Spring Boot,
 
 13. What design pattern using in your current project Microservice?
 
-Interviw - 2 ( Java 8, Multithreading, Spring Boot)
+Interveiw - 2 ( Java 8, Multithreading, Spring Boot)
 ------------
 
 1. How comfortable you are with Multithreading, executor framework etc?
