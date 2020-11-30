@@ -43,6 +43,8 @@ Interveiw - 2 ( Java 8, Multithreading, Spring Boot)
 
 4. How streams in Java 8 has better performance?
 
+5. Do we need to write many catch blocks for exception handling in spring boot?
+
 
 
 
