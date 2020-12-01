@@ -33,6 +33,8 @@ Interview # 1   ( Stack - Microservice, Core Java, Java 8, Java 11, Spring Boot,
 
 13. What design pattern using in your current project Microservice?
 
+14. What is the difference between various @Service . @Component, @Repository?
+
 Interveiw - 2 ( Java 8, Multithreading, Spring Boot)
 ------------
 
