@@ -45,6 +45,8 @@ Interveiw - 2 ( Java 8, Multithreading, Spring Boot)
 
 5. Do we need to write many catch blocks for exception handling in spring boot?
 
+6. Do you have any idea about authentication and authorization using spring ?
+
 
 
 
